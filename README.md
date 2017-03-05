@@ -1,6 +1,7 @@
 # Quantitative-Finance-Assignment
 ## 1.How good is the assumption of normal distributions for financial returns?
 It depends on the time horizon. For short-term returns, the distribution is semi-heaviness and has non-zero skewness, large kurtosis. For the long-term returns, the distribution is more similar to normal distribution.
+![alt tag]
 ## 2.Simulate options pricing using the binomial model. Why would you use this model instead of the Black-and-Scholes model?
 The most obvious advantage of binomial model is path-dependent option pricing.
 ## 3.Estimate Equity Portfolio Risk without using asset prices.
